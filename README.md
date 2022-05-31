@@ -1,4 +1,4 @@
-### Hi there, I am Grace Mullane 👋
+### Hello, I am Grace Mullane 👋
 
 ##### - 🔭 I’m currently working on full stack development with react.js, node.js, and python
 ##### - 🌱 I’m currently learning machine learning and algorithms
