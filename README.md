@@ -3,7 +3,7 @@
 ##### 🔭 Goal: Be a better designer and engineer
 ##### 🌱 Learning: Machine learning and algorithms
 ##### 💫 Need help with: Optimization and algorithms 
-##### 💬 Ask me: computational and philosophical theory
+##### 💬 Ask me: Computational and philosophical theory
 ##### 🪂 Reach me: mullane@ualberta.ca <br>
 
 ## 💻 Programming Languages, Tools and Libraries:
