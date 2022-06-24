@@ -8,7 +8,7 @@
 ##### - 📫 How to reach me: mullane@ualberta.ca
 
 ### 📬 Connect with me:
-<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Gray | LinkedIn" height="30" width="40" />
+<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dave Gray | LinkedIn" height="30" width="40" /> \n
 
 
 ### 💻 Programming Languages:
@@ -24,7 +24,7 @@
 [<img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 
-#### 🎓 Completed Courses
+#### 🎓 Completed University Courses
 ##### Incoming Junior @ University of Alberta 2022
 
 ###### CMPUT174 - Introduction to the Foundations of Computation I
