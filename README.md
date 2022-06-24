@@ -6,7 +6,7 @@
 ##### 💬 Ask me: computational and philosophical theory
 ##### 🪂 Reach me: mullane@ualberta.ca <br>
 
-### 💻 Programming Languages, Tools and Libraries:
+## 💻 Programming Languages, Tools and Libraries:
 
 #### Algorithms and Problem Solving
 <img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/> <br>
@@ -27,7 +27,7 @@
 #### Animation
 Loading.. <br>
 
-### 🎓 University | Grad June 2024
+## 🎓 University | Grad June 2024
 ### Incoming Junior @ University of Alberta 2022
 
 #### Computing Science Courses:
@@ -47,5 +47,5 @@ Loading.. <br>
 ##### CMPUT474 - Formal Languages, Automata, and Computability
 ##### CMPUT379 - Operating System Concepts
 
-### 📬 Connect with me:
+## 📬 Connect with me:
 <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Grace Mullane | LinkedIn" height="30" width="40" />
