@@ -1,4 +1,4 @@
-## Hello, I am Grace Mullane 🪄
+# Hello, I am Grace Mullane 🪄
 
 ##### 🔭 Goal: Be a better designer and engineer
 ##### 🌱 Learning: Machine learning and algorithms
@@ -27,13 +27,14 @@
 <br> </br>
 
 #### Animation
+Loading..
 
 <br> </br>
 
 ### 🎓 University | Grad June 2024
-##### Incoming Junior @ University of Alberta 2022
+### Incoming Junior @ University of Alberta 2022
 
-##### Computing Science Courses:
+#### Computing Science Courses:
 ###### CMPUT174 - Introduction to the Foundations of Computation I
 ###### CMPUT175 - Introduction to the Foundations of Computation II
 ###### CMPUT201 - Practical Programming Metholody
@@ -42,7 +43,7 @@
 ###### CMPUT272 - Formal Systems and Logic in Computing Science (Discrete Mathematics)
 ###### CMPUT291 - Introduction to File and Database Management
 
-##### Planned Courses 2022 - 2023
+#### Planned Courses 2022 - 2023
 
 ##### CMPUT267 - Basics of Machine Learning
 ##### CMPUT366 - Intelligent Systems
