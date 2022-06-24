@@ -21,9 +21,18 @@
 [<img align="left" target="_blank" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />]
 [<img align="left" target="_blank" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 [<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
-[<img align="left" target="_blank" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />]
 [<img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 [<img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
 
-#### 🎓 Courses
+#### 🎓 Completed Courses
+##### Incoming Junior @ University of Alberta 2022
+
+CMPUT174 - Introduction to the Foundations of Computation I
+CMPUT175 - Introduction to the Foundations of Computation II
+CMPUT201 - Practical Programming Metholody
+CMPUT204 - Algorithms I
+CMPUT229 - Computer Organization and Architecture I
+CMPUT272 - Formal Systems and Logic in Computing Science (Discrete Mathematics)
+CMPUT291 - Introduction to File and Database Management
+
 
