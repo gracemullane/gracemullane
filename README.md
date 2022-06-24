@@ -1,16 +1,17 @@
-## Hello, I am Grace Mullane
+## Hello, I am Grace Mullane 🪄
 
 ##### 🔭 Goal: Be a better designer and engineer
 ##### 🌱 Learning: Machine learning and algorithms
-##### 🤔 Need help with: Optimization and algorithms 
+##### 💫 Need help with: Optimization and algorithms 
 ##### 💬 Ask me: computational and philosophical theory
-##### 📫 Reach me: mullane@ualberta.ca
+##### 🪂 Reach me: mullane@ualberta.ca
 
 <br> </br>
 
 ### 💻 Programming Languages, Tools and Libraries:
 
 #### Algorithms and Problem Solving
+<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 #### Web Apps
 <img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -20,13 +21,12 @@
 <img align="left" target="_blank" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" target="_blank" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
 <img align="left" target="_blank" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-#### Animation
+<br> </br>
 
-#### 
+#### Animation
 
 <br> </br>
 
