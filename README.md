@@ -48,9 +48,9 @@ Loading.. <br>
 ##### CMPUT474 - Formal Languages, Automata, and Computability
 ##### CMPUT379 - Operating System Concepts
 
-## Internships
-## Application Engineer @ DCM | Summer 2022
-### Role: Software Developer for Internal Web Applications
+## 👷 Internships
+### Application Engineer @ DCM | Summer 2022
+#### Role: Software Developer for Internal Web Applications
 
 ## 📬 Connect with me:
 <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Grace Mullane | LinkedIn" height="30" width="40" />
