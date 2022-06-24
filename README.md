@@ -41,9 +41,10 @@ Loading.. <br>
 
 #### Planned Courses 2022 - 2023
 
-##### CMPUT267 - Basics of Machine Learning
-##### CMPUT366 - Intelligent Systems
 ##### CMPUT206 - Introduction to Digital Image Processing
+##### CMPUT267 - Basics of Machine Learning
+##### CMPUT301 - Introduction to Software Engineering
+##### CMPUT366 - Intelligent Systems
 ##### CMPUT474 - Formal Languages, Automata, and Computability
 ##### CMPUT379 - Operating System Concepts
 
