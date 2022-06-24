@@ -25,9 +25,7 @@
 <br> </br>
 
 #### Animation
-Loading..
-
-<br> </br>
+Loading.. <br>
 
 ### 🎓 University | Grad June 2024
 ### Incoming Junior @ University of Alberta 2022
