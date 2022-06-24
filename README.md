@@ -4,14 +4,13 @@
 ##### 🌱 Learning: Machine learning and algorithms
 ##### 💫 Need help with: Optimization and algorithms 
 ##### 💬 Ask me: computational and philosophical theory
-##### 🪂 Reach me: mullane@ualberta.ca
+##### 🪂 Reach me: mullane@ualberta.ca\
 
-<br> </br>
 
 ### 💻 Programming Languages, Tools and Libraries:
 
 #### Algorithms and Problem Solving
-<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <\n>
+<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"\/>
 
 #### Web Apps
 <img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
