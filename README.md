@@ -30,7 +30,7 @@ Loading.. <br>
 ## 🎓 University | Grad June 2024
 ### Incoming Junior @ University of Alberta 2022
 
-#### Computing Science Courses:
+#### Completed Computing Science Courses:
 ###### CMPUT174 - Introduction to the Foundations of Computation I
 ###### CMPUT175 - Introduction to the Foundations of Computation II
 ###### CMPUT201 - Practical Programming Metholody
