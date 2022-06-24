@@ -47,6 +47,7 @@ Loading.. <br>
 ##### CMPUT366 - Intelligent Systems
 ##### CMPUT474 - Formal Languages, Automata, and Computability
 ##### CMPUT379 - Operating System Concepts
+<br>
 
 ## 👷 Internships
 ### Application Engineer @ DCM | Summer 2022
