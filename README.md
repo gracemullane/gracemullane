@@ -46,8 +46,7 @@ Loading.. <br>
 ##### CMPUT301 - Introduction to Software Engineering
 ##### CMPUT366 - Intelligent Systems
 ##### CMPUT474 - Formal Languages, Automata, and Computability
-##### CMPUT379 - Operating System Concepts
-<br>
+##### CMPUT379 - Operating System Concepts <br>
 
 ## 👷 Internships
 ### Application Engineer @ DCM | Summer 2022
