@@ -1,6 +1,6 @@
 # Hello, I am Grace Mullane 🪄
 
-##### 🔭 Goal: Be a better designer and engineer
+##### 🔭 Goal: Be a better designer and software developer
 ##### 🌱 Learning: Machine learning and algorithms
 ##### 💫 Need help with: Optimization and algorithms 
 ##### 💬 Ask me: Computational and philosophical theory
